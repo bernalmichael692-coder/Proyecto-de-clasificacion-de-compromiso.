@@ -1,1 +1,1 @@
-# Proyecto-de-clasificaci-n-de-compromiso.
+# Proyecto-de-clasificacion-de-compromiso.
